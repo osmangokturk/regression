@@ -28,5 +28,6 @@ R^2 tries to unit free, and it is the measure of the explained error over total 
 ![image](https://user-images.githubusercontent.com/61835051/137643212-46844ebf-3c35-4d49-94b2-70ea9e320ed3.png)
 
 #Multiple regression of Sales on TV, Radio,and Newspaper
+![image](https://user-images.githubusercontent.com/61835051/137643327-bc99e6d6-82a6-4f2a-b094-f3eba26cd908.png)
 
-![image](https://user-images.githubusercontent.com/61835051/137643266-e23e9451-6dd0-469b-9bc0-958184a42919.png)
+
