@@ -22,3 +22,11 @@ RSE depends on the units of Y. For example here RSE of 3.26, in thousand units w
 
 R^2 tries to unit free, and it is the measure of the explained error over total error. It is calculated like this: 
 ![image](https://user-images.githubusercontent.com/61835051/137635197-6c65af9b-a4a2-4c6e-92a2-a358ef9034cc.png)
+
+##regression with respect to other variables seperately
+
+![image](https://user-images.githubusercontent.com/61835051/137643212-46844ebf-3c35-4d49-94b2-70ea9e320ed3.png)
+
+#Multiple regression of Sales on TV, Radio,and Newspaper
+
+![image](https://user-images.githubusercontent.com/61835051/137643266-e23e9451-6dd0-469b-9bc0-958184a42919.png)
