@@ -1,4 +1,4 @@
-# regression
+# number of variables in regression: coefficients, R^2  and RSE
 
 In this article, we are going to study the effect of more variables on measure of the fitness. 
 
