@@ -31,7 +31,7 @@ R^2 tries to unit free, and it is the measure of the explained error over total 
 #Multiple regression of Sales on TV, Radio,and Newspaper
 ![image](https://user-images.githubusercontent.com/61835051/137643327-bc99e6d6-82a6-4f2a-b094-f3eba26cd908.png)
 
-as it seen from the numbers, with multiple variables, the coefficients drops in absolute and nominal terms, so as the standard errors. The  associated t-statistics have increased as well, since the drop in std.errors is much larger. The multiple variable model is more significant than the simple one. 
+as it seen from the numbers, with multiple variables, the coefficients drops in absolute and nominal terms, so as the standard errors. The  associated t-statistics have increased as well, since the drop in std.errors is much larger. The multiple variable model is more significant than the simple one. It is normal to espect drop in coefficients in absolte terms, as the effect will be distributed among other variables. 
 
 In fact the decrease in std.error can be expected,as the more variables will give model to fit more closely and hence decrease the discrepancy.
 
